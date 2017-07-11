@@ -1,2 +1,2 @@
 # pro1
-Just another gur entering the new world of programming
+Just another guy entering the new world of programming
